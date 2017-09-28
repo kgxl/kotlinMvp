@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KoitlinNote</string>
+    <string name="note_hint_title">标题</string>
+    <string name="note_hint_type">添加标签</string>
+    <string name="note_hint_content">添加内容</string>
+    <string name="note_empty">暂无笔记</string>
+    <string name="tip_title">请输入标题</string>
+    <string name="tip_type">请输入类型</string>
+    <string name="tip_content">请输入内容</string>
+    <string name="tip_delete" formatted="false">是否删除%s?</string>
+</resources>
